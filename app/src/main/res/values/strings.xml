@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">zerostress</string>
+    <!-- Descripcion general imagenes -->
+    <string name="imagen_descripcion">Imagen</string>
+    <!-- View Principal-->
+    <string name="principal_nombre_logo">Zero Stress</string>
+    <string name="principal_catalogo">Catalogo</string>
+    <string name="principal_pedidos_anteriores">Pedidos Anteriores</string>
+    <string name="principal_articulos_deseados">Articulos Deseados</string>
+    <string name="principal_cesta_compras">Cesta de Compras</string>
+
+</resources>
